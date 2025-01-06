@@ -10,15 +10,13 @@ API Endpoints
 
 User Endpoints
 
-GET /users - Retrieve all users
-
-POST /users - Create a new user
+GET / - Retrieve all users
 
 Post Endpoints
 
-GET /posts - Retrieve all posts
+GET / - Retrieve all posts
 
-POST /posts - Create a new post
+POST / - Create a new post
 
 Technologies Used
 
